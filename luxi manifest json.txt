@@ -1,0 +1,27 @@
+{
+  "name": "Asistente Personal Luxi",
+  "short_name": "Luxi",
+  "description": "Tu asistente personal con IA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "luxi-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "luxi-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "luxi-icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
